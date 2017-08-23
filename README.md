@@ -1,1 +1,2 @@
-# Apache Spark with Scala
+# Titanic survivors
+Using Apache Spark with Scala
